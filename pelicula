@@ -9164,5 +9164,902 @@
         "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/0794C4819B41D49488B9BCE96CB4F1434E961CFC1371A5D32CFF8708C000F627/scale?width=260&aspectRatio=0.71&format=jpeg"
       }
     ]
+  },
+
+  {
+    "name": "NADA",
+    "samples": [
+      {
+        "name": "Nada 1x1",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghL8CwIWx/AEK8gW/165sX9NMcp8+JP4ZhKOTNEw5A5wQJ9aQOIDpoqMMVXiO+JRQIlD6iovmD+zn/ZGFi3Jhv0/LIPPSPIzt3UqhMx+id1zo8aLJdiXY/I+wmNjsyy5fa5sqjNmkf/AueivgGGhjQs2j5DQQauZqKAzKDdnnpmccw==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRz_12lF0_omtDe3G84zJ-KJ94UXcA1iCXnVwx1RSnjE1Pgvw"
+      },
+      {
+        "name": "Nada 1x2",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghJnJvxKUCQ7Sch0PotkjIny/9r80Kn4Mn1u/mkcx5q82ChJZbqG89DLgRMigNEPXIGtD32AasFArtha59Ao9tdINOj6PHOj7RMszRp16MB+bsJgckLJx30RKUHy1fY+k0XAn031vHBfoBu6/EQNTH8tVbHStwsV01Z/4c6u8wrJrA==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRz_12lF0_omtDe3G84zJ-KJ94UXcA1iCXnVwx1RSnjE1Pgvw"
+      },
+      {
+        "name": "Nada 1x3",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghLLET6eYm32AF7tKFuiUNTdVt7mnDwSJGyCfK1Yu7Hl3v6VkjrfkCh/RpheHaOtary5svUzwMD0IyevjcdzTuyomjREFdQ6EPzowxsvG+GL5dAjuxxY7cNiyFUBlQQcCRoe0uTAaTdNYwmV+Z8du+h9K2ejbMFjufaS+CAhBk2PVA==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRz_12lF0_omtDe3G84zJ-KJ94UXcA1iCXnVwx1RSnjE1Pgvw"
+      },
+      {
+        "name": "Nada 1x4",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghI66bLWb2AWLtFJXzvOa2ZkBfnHhHUBALmBOnQdIrX9UWrL9x8/doNuMJ9QTqhbJevGzyZYqbZrUmR33Q+eGls2vthFonDiHbUaFGx2/Qba5lYsBxD9QfZ0/I7fgPu3IKBw6Lw0GlrKGfT9YWhdI4H2b7BZZ1lVVQFKz2Vz3lVF3A==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRz_12lF0_omtDe3G84zJ-KJ94UXcA1iCXnVwx1RSnjE1Pgvw"
+      },
+      {
+        "name": "Nada 1x5",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghIcQF++uePztj9DSqrQvmC3Y2mLVMMQoGFmIfSibUVGZDTtP8gwaIKTnGfFCz7+JS0VqvoAKLiIwfIBy+deJQQRebeAwOXyu4uZNqO2FF01tLA6819wp6RT5pcWPbVikPoIsbfHAVddvMqAs9B0LRtkGiMTSy2viGANOxRPbwijqQ==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRz_12lF0_omtDe3G84zJ-KJ94UXcA1iCXnVwx1RSnjE1Pgvw"
+      }
+    ]
+  },
+  {
+    "name": "LA CAIDA DE LA CASA USHER",
+    "samples": [
+      {
+        "name": "La ca\u00edda de la Casa Usher 1x1",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghLLET6eYm32AF7tKFuiUNTd0nqTTrK9SYgLh01GrwINJcc4PqbXxPp8hhcbJzIzx0rhh+nYkf2zj16al5F/J4F/yuUdBn7ZVBwtiBQkuphmouELbN8HKTqRm8PlizP/FKy/Kl3dgzEADkhalVi4XbHabbjNUgtMlTcFMNTG7ryLYg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvRoZfuvuH2r_RqDhXbNx38Jj4u6u42m4WjWwgJvQZDfSsfqp"
+      },
+      {
+        "name": "La ca\u00edda de la Casa Usher 1x2",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghLLET6eYm32AF7tKFuiUNTdAi040mDJ7R7z/6hQ/WZ1EXWpZxy9OPznFijkWQgQgkUNicU5HwuGHnBOLHKaTA12/Ab1Su/4zSBrlQLwQVo8VOc5Tp8J1sH+7QrOrl+0rbuKaPjB6Wj9ZSp6L8KVJ1FzngW0vj9IVxC6JkXM19q3JA==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvRoZfuvuH2r_RqDhXbNx38Jj4u6u42m4WjWwgJvQZDfSsfqp"
+      },
+      {
+        "name": "La ca\u00edda de la Casa Usher 1x",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghJHKIjepZ/48Tao74sdFAGU6V+vUMAXb4lp7ES1VttOlo92Re56cUc+6Y8YQLXIw5Y2u2/bYZxDxAodIEaeUlV0sNhQOfk2VbyDdqszN1WqrNR7fHQTKjL3JZ6O9Ffcbc7EHFHxZqVaXcLvBymjTn7tBWzevedjpaLnzi81gHiEOg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvRoZfuvuH2r_RqDhXbNx38Jj4u6u42m4WjWwgJvQZDfSsfqp"
+      },
+      {
+        "name": "La ca\u00edda de la Casa Usher 1x4",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghL2ipnoPbm0kJiaSFNVoqfGXB1Pwf+4VRBNeTTqZiKII6vbu8xj4oqd1BtHefIc6S8jYsrHhbwP1h2lbnbHwA1D1qIgxQA9v1r0k47DSmOgkEwcOWhitLCP7LludG+nHFNvfuTUtuH2QKCPPegCFNEDPI06Ke5cyxOTDrD9wTuXqQ==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvRoZfuvuH2r_RqDhXbNx38Jj4u6u42m4WjWwgJvQZDfSsfqp"
+      },
+      {
+        "name": "La ca\u00edda de la Casa Usher 1x5",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghIcQF++uePztj9DSqrQvmC3Z+dhjncVwr1NiESB87KasnyjXgac1XoBK8Yef4rL2yHmDfye7CvlsqqbTzzDOo4NOXgZ376WuggK677LCFPkH4nrPspjFPjdobJ9P9p7vYTDvdB6bbIGwugU+KWRu6y8LyV1IezFXErAZjjlTgzTvA==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvRoZfuvuH2r_RqDhXbNx38Jj4u6u42m4WjWwgJvQZDfSsfqp"
+      },
+      {
+        "name": "La ca\u00edda de la Casa Usher 1x6",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghLLET6eYm32AF7tKFuiUNTdd4gZcukqj8v+hyMHhKR8G1urivIdCgH0N4NbwkXfLvvqcecMtO86BAcVLw45yfiHpHKbkUipFtL+HAjDtqoOWh6B4RpElxts9zFBF+l7PIIJaeEFaW9ZWdv1WhJrhPrifKfLbcpsuJQtS9PYVFjZEQ==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvRoZfuvuH2r_RqDhXbNx38Jj4u6u42m4WjWwgJvQZDfSsfqp"
+      },
+      {
+        "name": "La ca\u00edda de la Casa Usher 1x7",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghIcQF++uePztj9DSqrQvmC36CX8OgfHK93KmbSl2sp/NbBJLdjn/0f7tnh/EyXoQDX4bXd4a608rZO9GJ++YxRXTtGypGL8QEFV7U6XDcX4Ao2YJtuBhpekKGeCtBu8VHBJo0lDjhg6q2HpBoIFDFkWu+AuzEgt8a3Bh27hvZj4Cw==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvRoZfuvuH2r_RqDhXbNx38Jj4u6u42m4WjWwgJvQZDfSsfqp"
+      },
+      {
+        "name": "La ca\u00edda de la Casa Usher 1x8",
+        "uri": "9URYwtaD8rKrcSJ/vyTlvWy30SwAQe54joHJLUKg//F/S7xQ1Jl0e9/2KeD98hvMn1IRuItpYBeWN11dJgxG8ktfMnv9jVABRGPwv9+RghL8CwIWx/AEK8gW/165sX9N+NvrHaSrhoDzVlquk8hmgkvYFqyLZvrO090/DdykxpjGYr5d4tSevFlelGIr0XwE/qwBB6yKOCq9AwvfHW/wCwpZ6gizZPm7UGIJ3FI+IPgdwjaHINJnOrYx/16jbdbMC5NRd0r4tEOChtxMCdBfwg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvRoZfuvuH2r_RqDhXbNx38Jj4u6u42m4WjWwgJvQZDfSsfqp"
+      }
+    ]
+  },
+  {
+    "name": "Black Mirror",
+    "samples": [
+      {
+        "name": "0 Blanca navidad",
+        "uri": "fkO1O9NEbe3BMMz3Dbxe1m/B9f1/2WSL407tbky0/yPgIRDb81czyyy7XatPfoVZ46CRvPsAUrnL98uwt+++FQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gztDBJ4y4HKKuzOzT4rvOzZMm22.jpg"
+      },
+      {
+        "name": "1 El himno nacional",
+        "uri": "hQFJDmBrGhm481lSAR45G2/B9f1/2WSL407tbky0/yNGTO83wzeNfd7wotj9NPw0Y5+msdNo/UeMO/4yXN7YRg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9w27Lgeq8KVxhz4ysygT6ranxf1.jpg"
+      },
+      {
+        "name": "2 15 millones de m\u00e9ritos",
+        "uri": "bO5oeal1oPxieOQ0vpPNS2/B9f1/2WSL407tbky0/yMKe+RBSAAFZLoPCdVD+W8NNc3V1xTlfZuAvi5wCCKzTQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/c62HKSbeTRkatK223O3m58CmmPd.jpg"
+      },
+      {
+        "name": "3 Toda tu historia",
+        "uri": "StxHUlG+lAxUp9HVcr/Tom/B9f1/2WSL407tbky0/yPWCAIPRLphlqBHK8S1S8WLtcPWtyCRZ+FpQ8FwINIFSw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lhZmmQ6HSIYCo4Rxe6pmHMvkJE6.jpg"
+      },
+      {
+        "name": "4 Ahora mismo vuelvo",
+        "uri": "fkO1O9NEbe3BMMz3Dbxe1m/B9f1/2WSL407tbky0/yMgRksdYd0c3s8o0ijN2AkDEfIgsheH8bpKJxVfCJVDMw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ltgvZMI9y73GOlBqoOFiXlot87V.jpg"
+      },
+      {
+        "name": "5 Oso blanco",
+        "uri": "hQFJDmBrGhm481lSAR45G2/B9f1/2WSL407tbky0/yNnvjK1gn2dFCrmmx/Rg4hFiPWj+uQmFJgk8YujchAExA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iS34hF0GMqwry7gJtDoH29r5YVv.jpg"
+      },
+      {
+        "name": "6 El momento Waldo",
+        "uri": "sIQy15IukDxOqW6/SePaDW/B9f1/2WSL407tbky0/yMma9R1rjCb2ZsaGAizlxQO+IFjRtzg3r1SDAKBv9Su7w==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hSEwesgbIQWoMucQdc55c4qaAQM.jpg"
+      },
+      {
+        "name": "7 Ca\u00edda en picado",
+        "uri": "URAD4HcLdvAOTFcOgm3bg2/B9f1/2WSL407tbky0/yMe1TnWHE8ZsCYo8Oe7c/6lE1ujKzFBXR7QwMSBHfTs8g==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dmEDQliQbapSOcbdu0c2KtmIVna.jpg"
+      },
+      {
+        "name": "8 Playtesting",
+        "uri": "FYXjjUdfxTuE16FUC1bXvm/B9f1/2WSL407tbky0/yPymoHxl5UMXwDnZFaWyrW1cUjX5nGv6SXA2u3foVHriw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/v0zfbxuUnQ4YQ3hkRq7EvFsEKQN.jpg"
+      },
+      {
+        "name": "9 C\u00e1llate y baila",
+        "uri": "y2+QMkjpR2VEDar5Ayl3gm/B9f1/2WSL407tbky0/yMeIMmqIiFHyfGg/wXeIQ0bJ4XdryLYytYXAT5MPI/DpA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/MU0lsD08pcuwaYMGOQMFGFWJGg.jpg"
+      },
+      {
+        "name": "10 San Jun\u00edpero",
+        "uri": "In7RYIVHc6psDu7AAGhU2m/B9f1/2WSL407tbky0/yMR1vxTjnIjeDpGGKD8ZeKVHYH3DrN8bpjcEADKr7gKng==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/AfKQ9bm4RVTwyKdE2QfLDGrtVTu.jpg"
+      },
+      {
+        "name": "11 La ciencia de matar",
+        "uri": "sIQy15IukDxOqW6/SePaDW/B9f1/2WSL407tbky0/yOU4QKJAKzwF2CRE9VcYLuZIUYb7yKXxnczDompsSbL8Q==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/A4g3nH0kYQpqHv1oHBXuTgRgT5u.jpg"
+      },
+      {
+        "name": "12 Odio nacional",
+        "uri": "A1UfYE7bAdpRBn6f4f8GHW/B9f1/2WSL407tbky0/yM3VRjqVn1eNh67gIUGVeWE5IEJnlxA6l4MNtmF9cDR4g==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sBrdKKIMwdiFj5Xx8NRzLxqfVkX.jpg"
+      },
+      {
+        "name": "13 USS Callister",
+        "uri": "HTB5auA07E2jRGdHxTExD2/B9f1/2WSL407tbky0/yNmx2rYl8SNPqTIjf35rrLP2dL05pFYKGOyzVa9iUPCcw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6K6eg40GbZZv3vUUdqLU8qANaG8.jpg"
+      },
+      {
+        "name": "14 Arkangel",
+        "uri": "y2+QMkjpR2VEDar5Ayl3gm/B9f1/2WSL407tbky0/yOX1SxI071Da1eJ7FW6itBHeTbASjvkY7zOCMwvbHR98g==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3uXHGkHO5B9icYTxyVRDXoxDldR.jpg"
+      },
+      {
+        "name": "15 Cocodrilo",
+        "uri": "hQFJDmBrGhm481lSAR45G2/B9f1/2WSL407tbky0/yMnSniWmpk8CCc2Z9ZvHf6QrEi3kaDr90FuYngVWChCqg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mvNCd4qfwtdXeRHgvWHRRPUA1TF.jpg"
+      },
+      {
+        "name": "16 Hang the DJ",
+        "uri": "A1UfYE7bAdpRBn6f4f8GHW/B9f1/2WSL407tbky0/yOHwqaf/3SwcvqyZw2/CZWVTZsglsy5fS9AG0Bsa3iSqw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xvdqaFVz8f8BWZS0ip0Fjr4Eqmt.jpg"
+      },
+      {
+        "name": "17 Cabeza de metal",
+        "uri": "/gWDBmCdA9vJ5nfIheWnm2/B9f1/2WSL407tbky0/yMG0Q1q8Y84SxFrI5NymeMELfJEMlMfdEgso5tzngS/3w==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8mMSk4cGfIftbIoA2Mq83LpzYlw.jpg"
+      },
+      {
+        "name": "18 Black Museum",
+        "uri": "LD+o/YYNbwRVqx0+083TdG/B9f1/2WSL407tbky0/yOoLKwzCobLdc6q0qFxzMaJOJKEOOOjcukoqfdNny12ow==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fOKwBPMBSm1B6zc3wkN4hCkbtsf.jpg"
+      },
+      {
+        "name": "19 Striking Vipers",
+        "uri": "HTB5auA07E2jRGdHxTExD2/B9f1/2WSL407tbky0/yON1y7WO7evCzJ82lKHpYa4Dt2/DuDjFFpPVoiYuT0d6Q==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/t8uIVDjfCoutXHwIRZoUX8XpNS2.jpg"
+      },
+      {
+        "name": "20 A\u00f1icos",
+        "uri": "A1UfYE7bAdpRBn6f4f8GHW/B9f1/2WSL407tbky0/yNa09pe1n94tJ8KORkzzTGZmwuKfWw7iS7U+tN6nXY83w==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wOvJYn5p1dfjL4zNgZuMMhT0KPE.jpg"
+      },
+      {
+        "name": "21 Rachel, Jack y Ashley Too",
+        "uri": "sIQy15IukDxOqW6/SePaDW/B9f1/2WSL407tbky0/yMyEqQGveCX6xTEXu8tRWAVvbFxP8ezYyl2Px1IHCk5VA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uwLkdgvIT7hvJD2k9FMdiA8MpVX.jpg"
+      },
+      {
+        "name": "22 Joan es horrible",
+        "uri": "uA886fZTjBGmQ0L968dL/2/B9f1/2WSL407tbky0/yNnkC4P+/61xoGx9Ae3LiHsJ1D0O+/h2zZP3A/8ldEaCw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7cB4EIsn2eSP26t0ta8a9szWVZE.jpg"
+      },
+      {
+        "name": "23 Loch Henry",
+        "uri": "MLFR1SYN3X4WqPmDUs28t2/B9f1/2WSL407tbky0/yMm9yYlbEbRvCzUagTY0Ri550+Fu1ROmIzcdHmTQyWA6Q==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dA9ZWi2Q172vYUVxhKPTarJeDLj.jpg"
+      },
+      {
+        "name": "24 Beyond the Sea",
+        "uri": "fkO1O9NEbe3BMMz3Dbxe1m/B9f1/2WSL407tbky0/yPe1bBHC7BF1x+QTScPMYMmfv1Imb7VUC+JEubynIJYKg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1I3oE47FZwSuQWYP02d9rSCaQpq.jpg"
+      },
+      {
+        "name": "25 Mazey Day",
+        "uri": "A1UfYE7bAdpRBn6f4f8GHW/B9f1/2WSL407tbky0/yOsHJLylOURJ442JGk7Oxauh+jOx8+zfb7B3viKP6wLgA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dMF069rQ3g4M0mkGZD1FKoLO9Wp.jpg"
+      },
+      {
+        "name": "26 Demonio 79",
+        "uri": "eBRXTQKEFQzwNTMIr4CBVG/B9f1/2WSL407tbky0/yMhOBomsMgZ2fQU9+7jJ1FltrarDl4SQBq+PrhaRVWkPw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6lGVCSv4DfQqgjqauSxM4HmfvKS.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Glamorous",
+    "samples": [
+      {
+        "name": "1 \u00a1Se ruega confirmaci\u00f3n inmediata",
+        "uri": "HX0HaZ7PCEWjdGqqiavzZ2/B9f1/2WSL407tbky0/yPzu1bVJSYDycoG6InCmVdnviiGdhFIGRmiYwepbUy5s1oqWiuPLZbemwkvx41eFPA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/z6SgAStnLzX7hswn4ZlePrnRc1n.jpg"
+      },
+      {
+        "name": "2 Ubicaci\u00f3n secreta",
+        "uri": "VSafP6qYHzCjWGBmDYTrxG/B9f1/2WSL407tbky0/yP/3ulfXFB3w9G1cIQE6rY3NO1LL2n5lLvAnRNxeTWQ9oKQxgLkPQa5k0q5DekcAvA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uN6xGG3BTg5PzdEpLOPaAafRC0j.jpg"
+      },
+      {
+        "name": "3 Al final de la cola",
+        "uri": "y2+QMkjpR2VEDar5Ayl3gm/B9f1/2WSL407tbky0/yMsPJwLqLor4BVAz/Cf6SheBIBi1VGjUOECLJQBZKmlsIKQxgLkPQa5k0q5DekcAvA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/p91BoujThRHznNt7P66dxw0BxPy.jpg"
+      },
+      {
+        "name": "4 Solo en efectivo",
+        "uri": "HX0HaZ7PCEWjdGqqiavzZ2/B9f1/2WSL407tbky0/yNbKY4fCDMVRJxma/dmn7TXhhIPWf5TVkJWodVvLSeteoKQxgLkPQa5k0q5DekcAvA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hieEI36PrcCWztNVWa4LO6fVaHs.jpg"
+      },
+      {
+        "name": "5 No queda sitio",
+        "uri": "z9nwgzCUQV+qNhW1+5D+Hm/B9f1/2WSL407tbky0/yN4MqRCKCJW+5eCdvCh/TfvtlUBpdykQqWTiUdVxuE/WVoqWiuPLZbemwkvx41eFPA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6iHE7YBMAhs2mrKWi8BNPNFowT8.jpg"
+      },
+      {
+        "name": "6 Estamos a tope",
+        "uri": "hoz1c4fwjBJscOmr7rjimW/B9f1/2WSL407tbky0/yOfODzDoTNrR0r16jj8HD7cgmPr6sDf9mS2MDsXKy2mYIKQxgLkPQa5k0q5DekcAvA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/13SwpGe04NJxogbCx2klKpP2CoA.jpg"
+      },
+      {
+        "name": "7 Me da igual a qui\u00e9n conozcas",
+        "uri": "Ek8XAn6RMsu3pP+W0soU32/B9f1/2WSL407tbky0/yPE+fYkwql9mpkynAzygRc6Hr9gP9ty+eO9L/nJrU/Oz4KQxgLkPQa5k0q5DekcAvA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fYbhWg8Ig8i0gkwGwprm7xtjo05.jpg"
+      },
+      {
+        "name": "8 \u00bfEst\u00e1s en la lista?",
+        "uri": "IlDBUHrvpEkZt6TxRhw9QG/B9f1/2WSL407tbky0/yMQ9JNwvNoW1T8qt9fAWixzn0JZ0iyT5P1ILj/OFtRnQIKQxgLkPQa5k0q5DekcAvA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jDqFZytrl1LFA90GeN8X20r0ncw.jpg"
+      },
+      {
+        "name": "9 Puedes entrar",
+        "uri": "eBRXTQKEFQzwNTMIr4CBVG/B9f1/2WSL407tbky0/yP8MGi4V1gBx+CJQohFasRwNoNmXCqM7lmP5tXKiEbnT1oqWiuPLZbemwkvx41eFPA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mDB678FGDcsMAybFbYwzvUI4JhP.jpg"
+      },
+      {
+        "name": "10 Deja propina",
+        "uri": "LD+o/YYNbwRVqx0+083TdG/B9f1/2WSL407tbky0/yMqCZIkZeNWo8k0JAjvqephp5EHm/xdH7m5R4N/aFae/4KQxgLkPQa5k0q5DekcAvA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/folCUhFbEG68DfZyoGvm9GmSTiy.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Perfil Falso",
+    "samples": [
+      {
+        "name": "1 Carne y hueso",
+        "uri": "/gWDBmCdA9vJ5nfIheWnm2/B9f1/2WSL407tbky0/yMa1lJECgkhBa8bXt0Rqy53Kc+hu5qligUgAVIdc7rPfA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vM4noAp4Jp2KUmdl8AFnGIbzQtF.jpg"
+      },
+      {
+        "name": "2 p\u00e1nico en el para\u00edso",
+        "uri": "MLFR1SYN3X4WqPmDUs28t2/B9f1/2WSL407tbky0/yNeDojb51P/guKT+7LQZ6p1JU+X0v/afM/cUuF70HCSIA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/c36ZuT8AqfJhld1Mjv7xy704uWu.jpg"
+      },
+      {
+        "name": "3 Incluso si duele",
+        "uri": "381C3vpeYFdObsSlPrZ5mm/B9f1/2WSL407tbky0/yPZ0L2fi/huJ7YykghO+F6EesulsgcJUv6peDHvMI5AUw==",
+        "icono": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/luF32PEmbBaLK86qtW2l9uQPvSd.jpg"
+      },
+      {
+        "name": "4 Jadeante",
+        "uri": "bO5oeal1oPxieOQ0vpPNS2/B9f1/2WSL407tbky0/yNLHvgDHjAIwGT/N4cDuxt6iM3/UUJMAtwTkyPJ7LF0zw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/99TJeZRfpVIzVvdeTvtO3rqeIO4.jpg"
+      },
+      {
+        "name": "5 Im\u00e1genes peligrosas",
+        "uri": "eDoOM6VwpqMRs4EtTF2N2m/B9f1/2WSL407tbky0/yNbr98wwqMPR83CImKyEmaeiZI/A9STIy910LgMXeGoaw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/99TJeZRfpVIzVvdeTvtO3rqeIO4.jpg"
+      },
+      {
+        "name": "6 El secreto de terciopelo rojo",
+        "uri": "In7RYIVHc6psDu7AAGhU2m/B9f1/2WSL407tbky0/yN9UDPjWic3i7jDf60rMbzqojLmGOcOc9RGXkx6sVqTsQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lONsoE6XfUUPkN3A14gMqtKwuH1.jpg"
+      },
+      {
+        "name": "7 Dentro de la boca del lobo",
+        "uri": "z9nwgzCUQV+qNhW1+5D+Hm/B9f1/2WSL407tbky0/yPzMJ9HhzlVWWdo0Z2Tm9S/A/dHsw9tS36WQAX/lHrE3A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nHNBoJ0yGeQwcbLYRA7UXebWGvR.jpg"
+      },
+      {
+        "name": "8 Tentaci\u00f3n en la oscuridad",
+        "uri": "95K0tUMgbEySCc8zdugLy2/B9f1/2WSL407tbky0/yPg8Wd6CLW96zqEK16V2JYRX+UYqIOdAiSd4lfoJwLm8Q==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ckcfCN7hxMO4zTVNlCZTxDxcwHR.jpg"
+      },
+      {
+        "name": "9 La noche de los verdugos",
+        "uri": "LD+o/YYNbwRVqx0+083TdG/B9f1/2WSL407tbky0/yMRHUjdZYJoiQWeX6W69ZNscI91HFVfoN3c4L3pD6hsDQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/v3n3QkgfDDxr9XUC31U8SciSplx.jpg"
+      },
+      {
+        "name": "10 no digas nada",
+        "uri": "hQFJDmBrGhm481lSAR45G2/B9f1/2WSL407tbky0/yO+G2FsZi/SW4Z9tPFw30+Ayh1yNi5ANNFwPWs/qlsnjFoqWiuPLZbemwkvx41eFPA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/t7lXXHDI8YbWCr3IiLRvoJLRdBA.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Diciembre 2001",
+    "samples": [
+      {
+        "name": "1 The Beginning of the End",
+        "uri": "RIzZZ8gYFVQnocp6B7Efem/B9f1/2WSL407tbky0/yNnwU86O1YcaXNJuc9V652Eqatgbeqoc9wlXvOva/esploqWiuPLZbemwkvx41eFPA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5WRVNp4iTGbe9Et9oTIpd19HSbs.jpg"
+      },
+      {
+        "name": "2 The Money Isn\u2019t Coming",
+        "uri": "uA886fZTjBGmQ0L968dL/2/B9f1/2WSL407tbky0/yNnwU86O1YcaXNJuc9V652E/IFtZWOJQZaLVFFb+dBEbloqWiuPLZbemwkvx41eFPA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ml7M1u5qwOQq7BriYarZJyqvhQc.jpg"
+      },
+      {
+        "name": "3 No-Good Face is Better than a New One",
+        "uri": "uA886fZTjBGmQ0L968dL/2/B9f1/2WSL407tbky0/yNnwU86O1YcaXNJuc9V652ENepsd1BdbQh3dhk8Tv5fQ1oqWiuPLZbemwkvx41eFPA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eWk8XZahfGPp2Ccty45KQYfSp58.jpg"
+      },
+      {
+        "name": "4 December 2001",
+        "uri": "RIzZZ8gYFVQnocp6B7Efem/B9f1/2WSL407tbky0/yNnwU86O1YcaXNJuc9V652EOukaobFiKG+iyXfxBW4YVFoqWiuPLZbemwkvx41eFPA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9ztZVkd3SV8lEjHEMku5NGx4Akh.jpg"
+      },
+      {
+        "name": "5 The Beginning and the End",
+        "uri": "RIzZZ8gYFVQnocp6B7Efem/B9f1/2WSL407tbky0/yNnwU86O1YcaXNJuc9V652E7zPP5UyICegtuHfGJMC9ZFoqWiuPLZbemwkvx41eFPA=",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cDuMJozPmNtKapdHFhOizG3mahC.jpg"
+      },
+      {
+        "name": "6 Will We all Triumph Together?",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40tyX2Tf0DNtKxGV34lYBQHyxZY+RtZf4j9YGjZ/pYVJz0N+kaI34eGlSbpfUi4ehg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/voAlLCLwPLkbUftlwNjcFrP8QP.jpg"
+      }
+    ]
+  },
+  {
+    "name": "El Comandante Ford",
+    "samples": [
+      {
+        "name": "1 Celebrity",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatH+cJ6JFTqPk+ZiSevwxgyk",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4TODCrRN7S4it0KWhzRX9B4Q3G3.jpg"
+      },
+      {
+        "name": "2 Freedom",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatGXaPt61yrJ9QmNxTLkXPMp",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yzND3cDeGGe3H4b23nIHgUrXkwC.jpg"
+      },
+      {
+        "name": "3 Chocolate",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatEwXeqiTM4QmdLW+DLWJo4D",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4IHPW0K6bTpaJ4XyAfxs5sEtMPO.jpg"
+      },
+      {
+        "name": "4 Saint",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatER7Wj63cL/wps5rhOWI5Lb",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4ChSB0DdSBzU2dGiB5OCvRcPaML.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Ozark Temp 1",
+    "samples": [
+      {
+        "name": "1 Ca\u00f1a de azucar",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4zWlvSV2E6LJf2uT1/nZJwF5q20LE3DCsdxM4juAV2gp6LNZklyPZ5dRnxlPp9yQ0A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kt9D7lU2P0Ct3lCau5QetFdFhcj.jpg"
+      },
+      {
+        "name": "2 Gato azul",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4zWlvSV2E6LJf2uT1/nZJwF5q20LE3DCsdxM4juAV2gp6uIJNzjN2Uo8sh91MQYdaw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/c06qY3lchB8ReTLahmfupliP7J.jpg"
+      },
+      {
+        "name": "3 Noches en blanco",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4zWlvSV2E6LJf2uT1/nZJwF5q20LE3DCsdxM4juAV2gpkKminU6OZfJuKZ+wZHVHQw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eFScUmYS5quAQ2CAnGECP05lHMS.jpg"
+      },
+      {
+        "name": "4 Esta noche improvisamos",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4zWlvSV2E6LJf2uT1/nZJwF5q20LE3DCsdxM4juAV2gpKOeN/HA0G50ffAYUsRr4fQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6nzKm0n4oPkJrueKS3ifqajIs3n.jpg"
+      },
+      {
+        "name": "5 Dias decisivos",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4zWlvSV2E6LJf2uT1/nZJwF5q20LE3DCsdxM4juAV2gpMiJj23D3ghFVuRg9EC1U+g==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/brpbiIML6vA4cEIDZstQEj9UdXp.jpg"
+      },
+      {
+        "name": "6 Libro de Ruth",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4zWlvSV2E6LJf2uT1/nZJwF5q20LE3DCsdxM4juAV2gpnG73dpeSPcdE7S6JN7o4MA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ijxDoFiR4Wyv2JxlKOT6Zc4YXtZ.jpg"
+      },
+      {
+        "name": "7 Casa para p\u00e1jaros",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4zWlvSV2E6LJf2uT1/nZJwF5q20LE3DCsdxM4juAV2gpm67yBRHCy1T2QkaxrcXqoA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dJo5OHFHKFHIMrw4rZ6SXzEREju.jpg"
+      },
+      {
+        "name": "8 Caleidoscopio",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4zWlvSV2E6LJf2uT1/nZJwF5q20LE3DCsdxM4juAV2gpeatX+g3wnI3j5jnRfIYqVg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kVThjaOzAEBW8q6coO1EscPSyW1.jpg"
+      },
+      {
+        "name": "9 Caf\u00e9, solo",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4zWlvSV2E6LJf2uT1/nZJwF5q20LE3DCsdxM4juAV2gpihsGPeZW8In8qa8Q7rgJHQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/skatyCDyFCJo8xINVBCuiC2Ib6U.jpg"
+      },
+      {
+        "name": "10 Las campanadas",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4zWlvSV2E6LJf2uT1/nZJwF5q20LE3DCsdxM4juAV2gp2j3WpEAbxhiIL6rITekPkQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bnpYOvaqNMJC95dnozzzlOeqvol.jpg"
+      },
+      {
+        "name": "11 Arreglos",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40pfqxDEh/xbiK8y4UR4ABlqWJAwl64XAnHr7pIekQA80+OdksYqCSPdaP/eg3FtUw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jH1tjH6uBIQOYopNYA7eu3kkNmR.jpg"
+      },
+      {
+        "name": "12 La Precios\u00edsima Sangre de Cristo",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40pfqxDEh/xbiK8y4UR4ABlqWJAwl64XAnHr7pIekQA8YiPHXkdw07srC5ZnTtDB5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dGPAdxmHpBH6jOCt6boTI7aV0IV.jpg"
+      },
+      {
+        "name": "13 Un Langmore de por vida",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40pfqxDEh/xbiK8y4UR4ABlqWJAwl64XAnHr7pIekQA8iNIZMNVYrdSB4t+gAxR35A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lIagAbsTv12k7U3BhHVNlxGKu2B.jpg"
+      },
+      {
+        "name": "14 En soledad",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40pfqxDEh/xbiK8y4UR4ABlqWJAwl64XAnHr7pIekQA8Z3kSCaOde8soxrHEbIkiOg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cbz6KHKs0o9BR1CgyzHFskiA5eF.jpg"
+      },
+      {
+        "name": "15 El gran d\u00eda",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40pfqxDEh/xbiK8y4UR4ABlqWJAwl64XAnHr7pIekQA8F9pB9UCpNqkaiZzFQQp01A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qq1RZKAT56BFYc7n9DyytYqLNzY.jpg"
+      },
+      {
+        "name": "16 Las tinieblas de afuera",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40pfqxDEh/xbiK8y4UR4ABlqWJAwl64XAnHr7pIekQA8DmNVMub8n0BSjL+RaiZpPw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aWka8W3OamLMdHEtOJDSC5GzyRf.jpg"
+      },
+      {
+        "name": "17 Una salida",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40pfqxDEh/xbiK8y4UR4ABlqWJAwl64XAnHr7pIekQA8QIDMgFdyLA7JP4Pj4e/1pg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vrOanBEmB7QsUV5v7xJBdpPYooT.jpg"
+      },
+      {
+        "name": "18 El sue\u00f1o eterno",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40pfqxDEh/xbiK8y4UR4ABlqWJAwl64XAnHr7pIekQA8NXHSvi3RS64dYxGbwvzATA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/x3K9Jk4SObxaVDSovLvMX6puld8.jpg"
+      },
+      {
+        "name": "19 El tej\u00f3n",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40pfqxDEh/xbiK8y4UR4ABlqWJAwl64XAnHr7pIekQA8F/XJJnAbzrGBXykcZMxiWA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rhPdodF8OQIObhfz8Rk3i3rMK58.jpg"
+      },
+      {
+        "name": "20 La Costa de Oro",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ40pfqxDEh/xbiK8y4UR4ABlqWJAwl64XAnHr7pIekQA8AFyMhzvPjrQzYI+sTNBTUQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/14pjYh1pRlVElQfwSzDdASu2Ma6.jpg"
+      },
+      {
+        "name": "21 Tiempos de guerra",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatF5q20LE3DCsdxM4juAV2gpLs4UicOAoZXhWQBV4f3UkQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qmgJvsEcp3gVFVmw4Ytm5a4S8Cb.jpg"
+      },
+      {
+        "name": "22 Enlace civil",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatF5q20LE3DCsdxM4juAV2gpr7RJAW2nzsASBKjzAP1nlg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lOm0QzaE4RWAPn5sWJBUZZo7ByG.jpg"
+      },
+      {
+        "name": "23 Kevin Cronin estuvo aqu\u00ed",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatF5q20LE3DCsdxM4juAV2gpwRHj1LlqoNjbnswr3Gv/ww==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ACTkkmYJ5XlGS945xR6Z7YjPyp.jpg"
+      },
+      {
+        "name": "24 Pelea entre jefes",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatF5q20LE3DCsdxM4juAV2gppFVo2tizKhSd56lusuTuFQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lpZRWCsTmR1qJ8HQG6yCDxYgZxt.jpg"
+      },
+      {
+        "name": "25 Vino de Michoac\u00e1n",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatF5q20LE3DCsdxM4juAV2gpYVXYw49wb95sJPfsmjKdCw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2iREigsBo1ZnG1coNraa3y8FEAe.jpg"
+      },
+      {
+        "name": "26 Su casa es mi casa",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatF5q20LE3DCsdxM4juAV2gp4Sxk4WEsZBW+F6ArzSB6XQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vGcGTBYw3WJjZ0P2eqNdmkCdYWa.jpg"
+      },
+      {
+        "name": "27 En caso de emergencia",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatF5q20LE3DCsdxM4juAV2gp9S+OdvJLVfxUxVm9bO1uiw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/58Ov4FKwQc4PA8Mv7B2876h1PI.jpg"
+      },
+      {
+        "name": "28 Una amistad inquebrantable",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatF5q20LE3DCsdxM4juAV2gpLAlKK23k9z0tOw36F23+Sg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/phSZRc90OcoPEMNSCB5KiKRnau.jpg"
+      },
+      {
+        "name": "29 Fire Pink",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatF5q20LE3DCsdxM4juAV2gp7VtGsWHWLtPRq2Boj51rsg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9jVDzPAXxR9ZdhR8yCZhDLVR9xi.jpg"
+      },
+      {
+        "name": "30 A por todas",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ45xmao8peCJDKH3DB37jatF5q20LE3DCsdxM4juAV2gpkCLokyjX84BUiKNfedn0Kg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ufisGiMwTDgUkieh1obCSsOSRxr.jpg"
+      },
+      {
+        "name": "31 El principio del fin",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yv5g+z2iBxvSZrJM7Rv81fUQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sP3ZXIp2re6OhYr4QXwGN0Jonuc.jpg"
+      },
+      {
+        "name": "32 Que el gran mundo gire",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvGy1dxCaqipp3/G6foL9XZg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9l3xiVvcD0eopgvfNxYefCjD5ea.jpg"
+      },
+      {
+        "name": "33 Una ciudad ambiciosa",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvnY37RDSrHIjy8SaB9GullA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kMM1UnWLzQy51pKVjGU5aqCdXQx.jpg"
+      },
+      {
+        "name": "34 Una mala jugada",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvAktlEr9gA9Or3hI6Lo6HaA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bbMbidS1dfb0uWyRcJPczWWwl45.jpg"
+      },
+      {
+        "name": "35 Una posible explicaci\u00f3n",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvXveabSWOH34fZcmxpPrYRg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oDAbouz98dSE6BQabi6XxReWHDJ.jpg"
+      },
+      {
+        "name": "36 Sangre sobre todo",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvwUNpDIYlKcSJ8AU0V71cXQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ouhuOq8M2nKi8ExpTv0PYbd3AIH.jpg"
+      },
+      {
+        "name": "37 Santificado",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvVtIGxGGB46WDodLxtXHTFg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6Jsq1TMJL2O49poMpN4ZnKE0KlU.jpg"
+      },
+      {
+        "name": "38 El sue\u00f1o y la muerte",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvjnfdSzrrQ4I/RUT1i9jDHw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aEdR2FH2UCtLiWVScDkc3FhPcPO.jpg"
+      },
+      {
+        "name": "39 Elige un dios y ponte a rezar",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvMmg92fM3Saj5Ugw4elfPYg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/HxCrvDuK0eiTmdNOQ8tV8uXfVW.jpg"
+      },
+      {
+        "name": "40 T\u00fa eres el jefe",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yv48vIMQ2qLjUEXEwuEAnxsw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wxmopJseboIS2YTvcpOdRuiRUHz.jpg"
+      },
+      {
+        "name": "41 Todav\u00eda en pie",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvM1TbQnsxpvRDbLSO0geBeg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sbBflrEhrIeouWm62QQlwnYhQQl.jpg"
+      },
+      {
+        "name": "42 Aguas revueltas",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvMjVmy73CoGL0L/XscdlzXQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lJY39tSwyUGyt8qDgFtY58bK73z.jpg"
+      },
+      {
+        "name": "43 Barro",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yvzkwBnO/17V+8ckoMIKfKaA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9wozaCpV2OeCyKaaoRtki0hN3jF.jpg"
+      },
+      {
+        "name": "44 Un final sin retorno",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4xEkNOJTa+kcUUtiEzCL9DOdbJiAVbSd/ck+1WDM61yv37/A4KZyx9co78a2GPII6A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5YgXy4ktJBO6ID7oJ1rYnjoxb7A.jpg"
+      }
+    ]
+  },
+  {
+    "name": "El encargado Temp 1",
+    "samples": [
+      {
+        "name": "cap 1: Un proyecto peligroso",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhGnKDBsqFVpiB2KmheJYEmDA==",
+        "icono": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg"
+      },
+      {
+        "name": "cap 2: Una acci\u00f3n solidaria",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhGqHFg7syRfft/eLku45qk5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dv5uEUN8fqmdSOomtdUlvEsC4mP.jpg"
+      },
+      {
+        "name": "cap 3: Una turista en Buenos Aires\u00bb ",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhG3sOI0++VKnA0IO8NPLayvw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/m4TgfAN7nihW6qPKfTZCv8wm6qD.jpg"
+      },
+      {
+        "name": "cap 4: Una amante para Zambrano",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhGvkc9WKlYn4Nv1BcvQbKN4A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aYCA0jVCSKbsJBqyWztZS0W8I9d.jpg"
+      },
+      {
+        "name": "cap 5: Visita sorpresa",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhGcxXi8DEQy3WiG5UZ+1XbSA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aY5FxLbAb1D2aIcwrhBCfN2Y8vP.jpg"
+      },
+      {
+        "name": "cap 6: Chofer nocturno",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhGJ5mmmN8B278Xah0hpPGZHQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pkTEtGTytLFViKoaaPpc5WCddc1.jpg"
+      },
+      {
+        "name": "cap 7: Acompa\u00f1ante terap\u00e9utico",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhGdFW+MULmKSpwTJ2FUbzdKA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iYN4ZpDzZ6LNOPZqs6KpfsnglDi.jpg"
+      },
+      {
+        "name": "cap 8: Sabotaje en la sala de m\u00e1quinas",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhGqv9ynOJBaqOJqaLQzOhYww==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lTn7r9eNPJHyvsEm3Smok6M763s.jpg"
+      },
+      {
+        "name": "cap 9: El ocupa del 5B",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhGxVhiU59Xv/aft+7vkeqjxA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gb9zlX9tocLkyaEXVfENprIgdbH.jpg"
+      },
+      {
+        "name": "cap 10: La hora de la verdad",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhGzgDAr748hoVP8OZtGYyttg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dqfAPZdsOSwQKBl1fosJNnepYXA.jpg"
+      },
+      {
+        "name": "cap 11: El ave f\u00e9nix",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/iNlRnSEak4Cm05lW1u8xxs+XzWpkMp3uNLikmo4NhGg82gIR9Chw7aS4YnRoDKUg==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jNBNWE5KRh4yWMMHwFKOc9dOXkU.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Tulsa King Temp 1",
+    "samples": [
+      {
+        "name": "cap 1: Ve al oeste, viejo",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjG2qWx1oL0PWISACDKIi9Q5HwacGzhG71gKXTxco5bL5A==",
+        "icono": "http://image.tmdb.org/t/p/w500/dOe72mwnTFg6ec4gX8szoNgafEr.jpg"
+      },
+      {
+        "name": "cap 2: Centro del universo",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjFU/9zqPILjjJOXwP3HISohHwacGzhG71gKXTxco5bL5A==",
+        "icono": "http://image.tmdb.org/t/p/w500/2CpHeTMQQJjgIAWXE3VyPeUPmux.jpg"
+      },
+      {
+        "name": "cap 3: Capricho ",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjElopdZPIWLDUodNkjjzcjaHwacGzhG71gKXTxco5bL5A==",
+        "icono": "http://image.tmdb.org/t/p/w500/ntW59Upv7ihGxHgYLTQDNYu5y4b.jpg"
+      },
+      {
+        "name": "cap 4:  Lugar de Visita",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjEHTQZd7lalEalPqDWKpJVRHwacGzhG71gKXTxco5bL5A==",
+        "icono": "http://image.tmdb.org/t/p/w500/jTesVrxg1CkdKYHeQsYDOYDAW2R.jpg"
+      },
+      {
+        "name": "cap 5: Token Joe ",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjHqX5QVz4rsoPk+PGLxzLkoHwacGzhG71gKXTxco5bL5A==",
+        "icono": "http://image.tmdb.org/t/p/w500/ef8FQKmaxMVyj19JubHl3mgOdIB.jpg"
+      },
+      {
+        "name": "cap 6: Estable ",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ49fv2cI67vmdj6MB77DElfb6uwgmoBuYXflSmfLpKSza",
+        "icono": "http://image.tmdb.org/t/p/w500/pvsWgF9Q8KEKq1AAFXqt3mx1YB3.jpg"
+      },
+      {
+        "name": "cap 7: Warr Acre ",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjE4nW2WmOcUvANwLVfNO8LaHwacGzhG71gKXTxco5bL5A==",
+        "icono": "http://image.tmdb.org/t/p/w500/bodFvKO9iKvtdzWG2E4MnBRtpRU.jpg"
+      },
+      {
+        "name": "cap 8: Adobe Walls ",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjE469BHDY9tlT5yNtJVqTvSHwacGzhG71gKXTxco5bL5A==",
+        "icono": "http://image.tmdb.org/t/p/w500/CgBMQy7ekyOzhhLO0ZoMv7htJW.jpg"
+      },
+      {
+        "name": "cap 9: Rastros felices ",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjGPFk/V4O7JSC0sqL8mZP15HwacGzhG71gKXTxco5bL5A==",
+        "icono": "http://image.tmdb.org/t/p/w500/5kme01g9nQhOwxaLs4corudfpoe.jpg"
+      }
+    ]
+  },
+  {
+    "name": "The Last of Us Temp 1",
+    "samples": [
+      {
+        "name": "1: Cuando te pierdas en la oscuridad",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjFTwh9j6DwMy4lva6azO/MCHwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg"
+      },
+      {
+        "name": "2: Infectado",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjF/3e7+HrdDRW8rSavxtBCLHwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg"
+      },
+      {
+        "name": "3: Mucho, mucho tiempo",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjH+Awo1TcfCjQ93SgO/JHLjHwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bzy4hAtkY3OOInY4q6MJigLmC1m.jpg"
+      },
+      {
+        "name": "4: Por favor sosten mi mano",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjFrbN6xruEJPekA/PH0PQVUHwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/szQ95jxKNrYWnCAJx8VC51iws5d.jpg"
+      },
+      {
+        "name": "5: Resistir y sobrevivir",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjHq2BdqrO98tO9NaFAfwQroHwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cX2z8FO9lKqZmBBTVF2G2favQRE.jpg"
+      },
+      {
+        "name": "6: Kin",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjHttkQSWt/6jDWOGBXlU/VyHwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zW9AIy0PVhYfmukqBcUvlvi4mKc.jpg"
+      },
+      {
+        "name": "7: Lo que dejamos atras",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjHkzhz5ZLZt72IsygJ7G6qqHwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oNyC68bnOoVAiJnKVsRNY9YDbl6.jpg"
+      },
+      {
+        "name": "8: En nuestras horas mas bajas",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjE/FlhBehKr9d8KKiKl/xliHwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6DHQgB85iKMcabcKvC9HSDH3UDo.jpg"
+      },
+      {
+        "name": "9: Busca la luz",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ44lBqSgGR7NmlGPAhqyTbjGyUa+LWxzaBx973fQHxqJjHwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qFouIBgN3Jgba7LnuRmkTAohh07.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Mandalorian Temp 1,2,3",
+    "samples": [
+      {
+        "name": "Capitulo. 1 : El mandaloriano",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKCUmv6m6bB2oEyI/ZQFSWiofOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lr8OEa0GzjZ0qmD9NuuMj6TRWxF.jpg"
+      },
+      {
+        "name": "Capitulo. 2 : El ni\u00f1o",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKCVNEXn2ufVzyZ4s3YfQ3a4fOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/b8y9qAq2ZdU27Ua1lJxyNQbmzQE.jpg"
+      },
+      {
+        "name": "Capitulo. 3: El pecado",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKBEaaW3Z3BS1tFVOgs3UT7MfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5wGkymV2D9P9ZGI2wP0PefIwFol.jpg"
+      },
+      {
+        "name": "Capitulo. 4 : Santuario",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKB6+qYv/TmW+zmXV50O36G3fOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cKyE2gtQT5zIpLQHnD3mFNWrKud.jpg"
+      },
+      {
+        "name": "Capitulo. 5 : El pistolero",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKANT3yPVVcVBNNFEUfO0mBefOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/o6enRShRThpenWqtaC5lXNsEa8w.jpg"
+      },
+      {
+        "name": "Capitulo. 6 : El prisionero",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKC6hKkhh+gr2JvCwy1u54zffOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7Z9Bc58uLnp8gIDGtdi0jNEqYZY.jpg"
+      },
+      {
+        "name": "Capitulo. 7 : Ajuste de cuentas",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKAIwy0mcRerLuGy/EG2naDLfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/m483Gihn8vAt0cW5RXe5YRtchIQ.jpg"
+      },
+      {
+        "name": "Capitulo. 8 : Redencion",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKAwi7KXsp/h31ewFjGxpdokfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/v36aZwxTsPAvqsssLPVno3VFvg5.jpg"
+      },
+      {
+        "name": "Capitulo. 9 : El comisario",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKBwSRKitfE8SqMKFWRvhHWsfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/n6oeOfj8jMPbXZ2E2QTVXYt5cvO.jpg"
+      },
+      {
+        "name": "Capitulo. 10 : La pasajera",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKB0QiGLo1juONK3R7MuWRmTfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kAuS7h8qVLokHcKpSwZMum4PhC2.jpg"
+      },
+      {
+        "name": "Capitulo. 11: La heredera",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKBXyNTz1HX6Ho7o0fF3EedyfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gnZOQajf33N3BzRouIZU3NM45TY.jpg"
+      },
+      {
+        "name": "Capitulo. 12 : El asedio",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKDGNUdIOlk6z6u9O/pPsmWpfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/j31rD97OZj5ji5HEyJXAwzE1ahP.jpg"
+      },
+      {
+        "name": "Capitulo. 13 : La jedi",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKDP+tKacX2aYUIKt7LyrjYsfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/42QoiVzHnBKAxHT4DpYIKkRTG3N.jpg"
+      },
+      {
+        "name": "Capitulo. 14 : Tragedia",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKBAv8CawL3S9PxD4zwLpU1IfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/blQEEDPa5JW2rhOCov0yIGYo0CA.jpg"
+      },
+      {
+        "name": "Capitulo. 15 : El creyente",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKDpzAcyryr7ePwFEdN9Vv7bfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bTzhzNSVFugIyc8pHutmLCJdgv5.jpg"
+      },
+      {
+        "name": "Capitulo. 16 : El rescate",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4/XeNIcmLBw8Kg6VmrdSSKDuLwJQuxtO9EOlWN6FaIFEfOLacK3ailFMDNIwyF3tyw==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/non7AnwMaloVU0OtenLqKyq8Zg3.jpg"
+      },
+      {
+        "name": "Capitulo. 17 : El ap\u00f3stata",
+        "uri": "7c0gPpeI8y17qn/qeiArMm/B9f1/2WSL407tbky0/yOVSFYBfhP3BptsmbqDtZKCdbRYp/g9p2GGGb7btPdVa+s38Aa51KhG+pp0ke0g5FKm5qMfm5APGbwnn7RsTa5I",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8XeuJls7qlTsPiDAK0qarvBrmb2.jpg"
+      },
+      {
+        "name": "Capitulo. 18 : Las minas de mandalore",
+        "uri": "7c0gPpeI8y17qn/qeiArMm/B9f1/2WSL407tbky0/yOVSFYBfhP3BptsmbqDtZKCdbRYp/g9p2GGGb7btPdVa/e49PFgEcAlKFI5zsAJpvV+ZCTUZ7sHQZSnKbFU/4sd8yhjtbHADSBFwGw5vK5xFQ==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yR3pIsArgHpyeGScXHKqj8hGRBo.jpg"
+      },
+      {
+        "name": "Capitulo. 19 : El converso",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4yfjL3ZkVjXBfrrXRDw+UdpQLunm3jxk0bkM4JfJidS6HwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zgj0iZUYNIZh0NbPVdNEdTacfwv.jpg"
+      },
+      {
+        "name": "Capitulo. 20 : El huerfano",
+        "uri": "Q00cGpP9nL6EsXGdnkjJ4yfjL3ZkVjXBfrrXRDw+Udpi2Q/oVnN+0c7LciXkjOfWHwacGzhG71gKXTxco5bL5A==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jtH7v1yusbC0Lj3jAT8W2aEbbW3.jpg"
+      },
+      {
+        "name": "Capitulo. 21 : El Pirata",
+        "uri": "R0KH3wtE2iwdfj4J5y2qdRnMvl75Lo7hU2BjYynsOlFB3PQ7vDmosIp8LQR1o3xgYdzjmpUR4FTFzbAK+U9/FxnSzJRZXfWxFuu3zR5ZIbYFPfGmQj0ksupx7WzCe9kIyxmSXLWBz35kNiOsjZZjjA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nMAlfiKOxWsf7hcHzxqBjLbApda.jpg"
+      },
+      {
+        "name": "Capitulo. 22 : Soldados a sueldo",
+        "uri": "R0KH3wtE2iwdfj4J5y2qdRnMvl75Lo7hU2BjYynsOlFB3PQ7vDmosIp8LQR1o3xgii6wvd7JcVkUzdEVOe6M/pW1CdS8BreFjFhTCvI2aPf77G89y6JoMEYMErvZBXNnShXokXFJ5pk4/sg90Fraww==",
+        "icono": "https://www.themoviedb.org/t/p/w640_and_h360_bestv2/wxV2jJ0VsGdBCJIlgCHhBHq5dIn.jpg"
+      },
+      {
+        "name": "Capitulo. 23 : Los Esp\u00edas",
+        "uri": "R0KH3wtE2iwdfj4J5y2qdRnMvl75Lo7hU2BjYynsOlFB3PQ7vDmosIp8LQR1o3xgqtATRqxjjsu2pnSJ/AicAHVxd2ula7JyvkEhU7kvAdCYKMK7aAtEgX4KzuIq6OU/S0vlccPKk32jX1DCoEX8vA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/38blBPXRWevBgwa4XPVZkc2mMCO.jpg"
+      },
+      {
+        "name": "Capitulo. 24 : El regreso",
+        "uri": "R0KH3wtE2iwdfj4J5y2qdRnMvl75Lo7hU2BjYynsOlFB3PQ7vDmosIp8LQR1o3xg9uah5AGbOgDeFchg8xhwdZiCHrFtCn76Qm+0f2zGOTgeIYK4MtCpRdIT9bUzVcz0brHwdPXm+IYI+1BOIdzlnA==",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/blG9C2voVSQlC8M1JkJZgo7BvCL.jpg"
+      }
+    ]
   }
+
 ]
